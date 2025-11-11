@@ -8,7 +8,7 @@
 - 🚀 Currently learning **Spring Boot** and **React**  
 - 🎯 Interested in **Full-Stack Development** and **Database Systems**  
 - 📫 Reach me at **[praveengouraj885@gmail.com](mailto:praveengouraj885@gmail.com)**  
-- 💼 [linkedin.com/in/praveen-gouraj](https://linkedin.com/in/praveen-gouraj)  
+- 💼 Linkedin : [linkedin.com/in/praveen-gouraj](https://linkedin.com/in/praveen-gouraj)  
 
 ---
 

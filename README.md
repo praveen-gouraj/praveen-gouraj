@@ -1,98 +1,46 @@
-<h1 align="center">Hi 👋, I'm Praveen Gouraj</h1>
+<h1 align="center">Praveen Gouraj</h1>
 
-<h3 align="center">
-Computer Science Engineering Student | Full Stack Developer
-</h3>
+<p align="center">
+Full Stack Developer
+</p>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.E. Computer Science & Engineering (2027)
-- 💻 Passionate about Full Stack Web Development
-- 🌱 Currently learning Spring Boot, DSA, and Cloud Technologies
-- 🚀 Interested in building scalable web applications
-- 🤝 Open to internships and collaborative projects
+<p align="center">
+Building scalable web applications with modern JavaScript technologies.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### Programming Languages
-- Java
-- JavaScript
-- Python
-
-### Frontend
-- HTML5
-- CSS3
-- Bootstrap
-- React.js
-
-### Backend
-- Node.js
-- Express.js
-- Spring Boot
-
-### Databases
-- MongoDB
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- Eclipse
+I'm a Full Stack Developer passionate about designing clean, responsive, and user-focused web applications. I enjoy turning ideas into reliable software through modern development practices and continuously improving my technical skills.
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### 🏡 Wanderlust
-A full-stack accommodation booking platform inspired by Airbnb.
+**Languages**
 
-**Tech Stack**
-- Node.js
-- Express.js
-- MongoDB
-- EJS
-- Bootstrap
-- Cloudinary
+`Java` `JavaScript` `Python`
 
-🔗 Live Demo:
-https://wonderlust-kchs.onrender.com
+**Frontend**
 
-🔗 Repository:
-https://github.com/praveen-gouraj/Wanderlust
+`React.js` `HTML5` `CSS3` `Bootstrap`
 
----
+**Backend**
 
-### 💼 Smart Hire Hub
+`Node.js` `Express.js`
 
-A full-stack recruitment platform for recruiters and candidates.
+**Database**
 
-**Tech Stack**
+`MongoDB` `MySQL`
 
-- React.js
-- Node.js
-- Express.js
-- MongoDB
+**Tools**
+
+`Git` `GitHub` `VS Code` `Postman`
 
 ---
 
-## 📜 Certifications
+## Connect
 
-- AI Skills Passport – Microsoft
-- Oracle Cloud Infrastructure Foundations
-- Python for Data Science and Machine Learning
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn:
-  https://linkedin.com/in/praveen-gouraj
-
-- Email:
-  praveengouraj885@gmail.com
+- LinkedIn
+- Email

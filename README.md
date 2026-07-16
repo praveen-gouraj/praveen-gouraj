@@ -6,13 +6,12 @@
 
 Building clean, scalable, and user-focused web applications.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/praveen-gouraj/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p>
+  <a href="https://www.linkedin.com/in/praveen-gouraj/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="mailto:praveengouraj885@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -20,44 +19,56 @@ Building clean, scalable, and user-focused web applications.
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,js,python" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,eclipse" />
-
-</div>
+* 💻 Full Stack Developer with a passion for building modern and scalable web applications.
+* 🌱 Continuously learning new technologies and improving my development skills.
+* 🚀 Focused on writing clean, maintainable, and user-friendly software.
+* 🤝 Open to learning, collaboration, and new opportunities.
 
 ---
 
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+**Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,eclipse" />
+</p>
+
+---
+
+## 📫 Connect
+
+* **LinkedIn:** https://www.linkedin.com/in/praveen-gouraj/
+* **Email:** [praveengouraj885@gmail.com](mailto:praveengouraj885@gmail.com)
+
 <div align="center">
 
-### 🤝 Let's Connect
-
-<a href="https://www.linkedin.com/in/praveen-gouraj/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
-</a>
-
-<a href="mailto:praveengouraj885@gmail.com">
-<img src="https://img.shields.io/badge/Email-praveengouraj885@gmail.com-red?style=flat-square&logo=gmail"/>
-</a>
+⭐ *Thanks for visiting my profile!*
 
 </div>

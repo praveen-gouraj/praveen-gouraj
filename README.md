@@ -19,12 +19,12 @@ Building clean, scalable, and user-focused web applications.
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-* 💻 Full Stack Developer with a passion for building modern and scalable web applications.
-* 🌱 Continuously learning new technologies and improving my development skills.
-* 🚀 Focused on writing clean, maintainable, and user-friendly software.
-* 🤝 Open to learning, collaboration, and new opportunities.
+* Full Stack Developer with a passion for building modern and scalable web applications.
+* Continuously learning new technologies and improving my development skills.
+* Focused on writing clean, maintainable, and user-friendly software.
+* Open to learning, collaboration, and new opportunities.
 
 ---
 

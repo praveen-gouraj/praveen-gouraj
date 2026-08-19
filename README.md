@@ -24,11 +24,11 @@
 
 Full Stack Developer focused on building practical web applications with clean interfaces, reliable backend services, and well-structured code.
 
-- 💻 Full-stack web development
-- 🔗 REST API development and integration
-- 🗄️ Database-driven applications
-- 📱 Responsive and user-focused interfaces
-- 🚀 Continuously learning through real-world projects
+-  Full-stack web development
+-  REST API development and integration
+-  Database-driven applications
+-  Responsive and user-focused interfaces
+-  Continuously learning through real-world projects
 
 ### 🛠️ Technologies
 

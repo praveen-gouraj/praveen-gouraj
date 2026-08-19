@@ -30,12 +30,6 @@ Full Stack Developer focused on building practical web applications with clean i
 -  Responsive and user-focused interfaces
 -  Continuously learning through real-world projects
 
-###  Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,python" />
-</p>
-
 ---
 
 ###  Connect

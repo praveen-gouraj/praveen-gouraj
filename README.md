@@ -33,7 +33,7 @@ Full Stack Developer focused on building practical web applications with clean i
 ###  Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,bootstrap,react,nodejs,express,mongodb,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,js,python" />
 </p>
 
 ---

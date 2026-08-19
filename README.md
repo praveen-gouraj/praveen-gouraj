@@ -20,7 +20,7 @@
 
 ---
 
-### 👨‍💻 About
+### About
 
 Full Stack Developer focused on building practical web applications with clean interfaces, reliable backend services, and well-structured code.
 
@@ -30,7 +30,7 @@ Full Stack Developer focused on building practical web applications with clean i
 -  Responsive and user-focused interfaces
 -  Continuously learning through real-world projects
 
-### 🛠️ Technologies
+###  Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,js,python,html,css,bootstrap,react,nodejs,express,mongodb,mysql,git,github" />
@@ -38,7 +38,7 @@ Full Stack Developer focused on building practical web applications with clean i
 
 ---
 
-### 🔗 Connect
+###  Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/praveen-gouraj/">LinkedIn</a>

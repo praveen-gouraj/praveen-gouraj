@@ -10,32 +10,50 @@
 
 <br>
 
-<!-- Social Links -->
-
 <a href="https://www.linkedin.com/in/praveen-gouraj/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
 <a href="https://x.com/PraveenGouraj">
-  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
+  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X">
 </a>
 &nbsp;
 <a href="https://praveen-gouraj.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
 &nbsp;
 <a href="mailto:praveengouraj885@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
 
----
+<hr>
 
-### `developer.status`
+<h3>developer.status</h3>
 
-```text
+<pre align="left">
 $ building...
 $ learning...
 $ experimenting...
 $ shipping...
+</pre>
+
+<hr>
+
+<br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=Praveen-gouraj&label=Profile%20Views&color=lightgrey&style=flat"
+  alt="Profile Views"
+>
+
+<br><br>
+
+<hr>
+
+<p>
+  <strong>Building · Learning · Improving</strong>
+</p>
+
+</div>

@@ -30,32 +30,12 @@
 
 <br><br>
 
-<!-- Profile Views -->
-
-<img
-  src="https://komarev.com/ghpvc/?username=Praveen-gouraj&label=Profile%20Views&color=lightgrey&style=flat"
-  alt="Profile Views"
-/>
-
-<br><br>
-
-</div>
-
 ---
 
-## 📊 GitHub Activity
+### `developer.status`
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen-gouraj&theme=github-compact&hide_border=true&height=250&days=31&area=false&grid=false&custom_title=Contribution%20Activity"
-    alt="GitHub Contribution Activity"
-  />
-</p>
-
----
-
-<div align="center">
-
-**Building · Learning · Improving**
-
-</div>
+```text
+$ building...
+$ learning...
+$ experimenting...
+$ shipping...

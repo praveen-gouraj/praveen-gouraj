@@ -1,51 +1,71 @@
-<h1 align="center">Hi 👋, I'm Praveen </h1>
+<div align="center">
 
-<p align="center">
-  <strong>Full Stack Developer</strong> · Computer Science & Engineering
+<h1>👋 Hi, I'm Praveen</h1>
+
+<h3>Computer Science & Engineering</h3>
+
+<p>
+  Turning ideas into clean, functional digital experiences.
 </p>
 
-<p align="center">
-  Building responsive, scalable, and user-focused web applications.
-</p>
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/praveen-gouraj/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/PraveenGouraj">X</a>
-  &nbsp;·&nbsp;
-  <a href="https://praveen-gouraj.github.io/Portfolio/">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:praveengouraj885@gmail.com">Email</a>
-</p>
+<!-- Social Links -->
+
+<a href="https://www.linkedin.com/in/praveen-gouraj/">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/PraveenGouraj">
+  <img src="https://cdn.simpleicons.org/x/000000" width="30" alt="X"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://praveen-gouraj.github.io/Portfolio/">
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="30" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:praveengouraj885@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Email"/>
+</a>
+
+<br><br>
+
+<!-- Profile Views -->
+
+<img
+  src="https://komarev.com/ghpvc/?username=Praveen-gouraj&label=Profile%20Views&color=grey&style=flat"
+  alt="Profile Views"
+/>
+
+<br><br>
 
 ---
 
-### About
+### ✦ Currently
 
-Full Stack Developer focused on building practical web applications with clean interfaces, reliable backend services, and well-structured code.
+| 🔨 Building | 📚 Learning | 🌱 Exploring | 🤝 Open to |
+|:---:|:---:|:---:|:---:|
+| Projects | New Technologies | New Ideas | Collaboration |
 
--  Full-stack web development
--  REST API development and integration
--  Database-driven applications
--  Responsive and user-focused interfaces
--  Continuously learning through real-world projects
+<br>
 
 ---
 
-###  Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/praveen-gouraj/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/PraveenGouraj">X</a>
-  &nbsp;·&nbsp;
-  <a href="https://praveen-gouraj.github.io/Portfolio/">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:praveengouraj885@gmail.com">Email</a>
-</p>
-
----
+### 📊 GitHub Activity
 
 <p align="center">
-  <sub>Building · Learning · Improving</sub>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen-gouraj&hide_border=true&area=true"
+    alt="Praveen's GitHub Activity Graph"
+  />
 </p>
+
+<br>
+
+---
+
+<p>
+  <strong>Building · Learning · Improving</strong>
+</p>
+
+</div>

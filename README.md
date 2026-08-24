@@ -43,12 +43,11 @@ $ shipping...
 
 <br>
 
-<img
-  src="https://komarev.com/ghpvc/?username=Praveen-gouraj&label=Profile%20Views&color=lightgrey&style=flat"
-  alt="Profile Views"
->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Praveen-gouraj&label=Profile%20Views&color=lightgrey&style=flat" alt="Profile Views">
+</p>
 
-<br><br>
+<br>
 
 <hr>
 

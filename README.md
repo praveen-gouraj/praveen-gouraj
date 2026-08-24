@@ -13,19 +13,19 @@
 <!-- Social Links -->
 
 <a href="https://www.linkedin.com/in/praveen-gouraj/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="https://x.com/PraveenGouraj">
-  <img src="https://cdn.simpleicons.org/x/000000" width="30" alt="X"/>
+  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="https://praveen-gouraj.github.io/Portfolio/">
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="30" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:praveengouraj885@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br><br>
@@ -33,39 +33,29 @@
 <!-- Profile Views -->
 
 <img
-  src="https://komarev.com/ghpvc/?username=Praveen-gouraj&label=Profile%20Views&color=grey&style=flat"
+  src="https://komarev.com/ghpvc/?username=Praveen-gouraj&label=Profile%20Views&color=lightgrey&style=flat"
   alt="Profile Views"
 />
 
 <br><br>
 
----
-
-### ✦ Currently
-
-| 🔨 Building | 📚 Learning | 🌱 Exploring | 🤝 Open to |
-|:---:|:---:|:---:|:---:|
-| Projects | New Technologies | New Ideas | Collaboration |
-
-<br>
+</div>
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen-gouraj&hide_border=true&area=true"
-    alt="Praveen's GitHub Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen-gouraj&theme=github-compact&hide_border=true&height=250&days=31&area=false&grid=false&custom_title=Contribution%20Activity"
+    alt="GitHub Contribution Activity"
   />
 </p>
 
-<br>
-
 ---
 
-<p>
-  <strong>Building · Learning · Improving</strong>
-</p>
+<div align="center">
+
+**Building · Learning · Improving**
 
 </div>
